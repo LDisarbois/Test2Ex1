@@ -3,6 +3,9 @@ package Ex1;
 import java.util.ArrayList;
 
 public class RomanToNumeral {
+	
+	
+ArrayList<String> a = new ArrayList<String>();
 
 	
 	public int getNumeral(ArrayList<String> a) {
